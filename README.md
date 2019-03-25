@@ -8,8 +8,14 @@
 菜单(3)升级DC1固件 支持TTL和OTA双模式选择。
 
 
-TTL刷固件的接线及进入刷写模式方法请[参考文档说明](https://github.com/Samuel-0-0/phicomm_dc1-esphome/blob/master/README.md)。
+配置文件下载、TTL刷固件的接线及进入刷写模式方法请[参考文档内的说明](https://github.com/Samuel-0-0/phicomm_dc1-esphome/blob/master/README.md)。
 
-# 下载地址
+# 工具下载地址
 
 直接右上角「 Clone or download 」  →  「 Download  ZIP 」
+
+# 错误解决
+遇到未知错误，请删除config_yaml文件夹内.esphome和build下与配置文件对应的文件和文件夹！
+
+如下图的错误：
+![image](https://github.com/Samuel-0-0/esphome-tools-dc1/blob/master/%E7%BC%96%E8%AF%91%E9%94%99%E8%AF%AF%E8%AF%B4%E6%98%8E.png?raw=true)
