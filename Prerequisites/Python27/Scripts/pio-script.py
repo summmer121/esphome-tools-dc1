@@ -1,4 +1,4 @@
-#!F:\all\esphome-tools-dc1\Prerequisites\Python27\python.exe
+#!F:\all\esphome-tools-dc1-all\Prerequisites\Python27\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'platformio==3.6.5','console_scripts','pio'
 __requires__ = 'platformio==3.6.5'
 import re

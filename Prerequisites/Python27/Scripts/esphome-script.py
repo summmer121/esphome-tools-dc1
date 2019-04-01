@@ -1,4 +1,4 @@
-#!F:\all\esphome-tools-dc1\Prerequisites\Python27\python.exe
+#!F:\all\esphome-tools-dc1-all\Prerequisites\Python27\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'esphome==1.13.0.dev0','console_scripts','esphome'
 __requires__ = 'esphome==1.13.0.dev0'
 import re

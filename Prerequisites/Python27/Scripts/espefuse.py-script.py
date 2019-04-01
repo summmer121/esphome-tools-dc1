@@ -1,4 +1,4 @@
-#!F:\all\esphome-tools-dc1\Prerequisites\Python27\python.exe
+#!F:\all\esphome-tools-dc1-all\Prerequisites\Python27\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'esptool==2.6','console_scripts','espefuse.py'
 __requires__ = 'esptool==2.6'
 import re

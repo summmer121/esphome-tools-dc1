@@ -1,4 +1,4 @@
-#!F:\all\esphome-tools-dc1\Prerequisites\Python27\python.exe
+#!F:\all\esphome-tools-dc1-all\Prerequisites\Python27\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'chardet==3.0.4','console_scripts','chardetect'
 __requires__ = 'chardet==3.0.4'
 import re
