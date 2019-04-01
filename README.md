@@ -17,14 +17,17 @@
 4. 解压Git安装包内所有文件到DC1刷机工具的Prerequisites\git里面，如下图
 
 ![image](https://github.com/Samuel-0-0/esphome-tools-dc1/blob/lite/Prerequisites/%E6%AD%A5%E9%AA%A44.png?raw=true)
+
 5. 安装python到指定位置，如下图
 
 ![image](https://github.com/Samuel-0-0/esphome-tools-dc1/blob/lite/Prerequisites/%E6%AD%A5%E9%AA%A45.1.png?raw=true)
 
 ![image](https://github.com/Samuel-0-0/esphome-tools-dc1/blob/lite/Prerequisites/%E6%AD%A5%E9%AA%A45.2.png?raw=true)
+
 6. 运行DC1工具箱，选择(3)升级编译环境，等待完成。
 
 ![image](https://github.com/Samuel-0-0/esphome-tools-dc1/blob/lite/%E5%B7%A5%E5%85%B7%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png?raw=true)
+
 7. 将固件配置文件存放于DC1刷机工具的config_yaml目录内。
 8. 执行菜单(1)编译DC1固件，确认无报错后执行菜单(2)升级DC1固件。注意！初次使用*必须*用TTL线刷，之后可以通过OTA升级。
 
@@ -34,4 +37,5 @@
 遇到未知错误，请删除config_yaml文件夹内.esphome和build下与配置文件对应的文件和文件夹！
 
 如下图的错误：
+
 ![image](https://github.com/Samuel-0-0/esphome-tools-dc1/blob/lite/%E7%BC%96%E8%AF%91%E9%94%99%E8%AF%AF%E8%AF%B4%E6%98%8E.png?raw=true)
