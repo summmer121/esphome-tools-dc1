@@ -1,0 +1,13 @@
+DC1工具箱.bat
+系统初始化.bat
+自动git更新.bat
+/Prerequisites/git/
+/Prerequisites/Python27/
+/config_yaml/.platformio/
+/config_yaml/.esphome/
+/config_yaml/**/.pioenvs/
+/config_yaml/**/.piolibdeps/
+/config_yaml/**/lib/
+/config_yaml/**/src/
+/config_yaml/**/platformio.ini
+/config_yaml/*.yaml
