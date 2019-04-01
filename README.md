@@ -15,11 +15,15 @@
 2. 下载 [python2.7安装包-64位](https://www.python.org/ftp/python/2.7.16/python-2.7.16.amd64.msi) / [python2.7安装包-32位](https://www.python.org/ftp/python/2.7.16/python-2.7.16.msi)
 3. 下载（右键另存为） [DC1刷机工具（自搭环境版）](https://github.com/Samuel-0-0/esphome-tools-dc1/archive/lite.zip) 并解压
 4. 解压Git安装包内所有文件到DC1刷机工具的Prerequisites\git里面，如下图
+
 ![image](https://github.com/Samuel-0-0/esphome-tools-dc1/blob/lite/Prerequisites/%E6%AD%A5%E9%AA%A44.png?raw=true)
 5. 安装python到指定位置，如下图
+
 ![image](https://github.com/Samuel-0-0/esphome-tools-dc1/blob/lite/Prerequisites/%E6%AD%A5%E9%AA%A45.1.png?raw=true)
+
 ![image](https://github.com/Samuel-0-0/esphome-tools-dc1/blob/lite/Prerequisites/%E6%AD%A5%E9%AA%A45.2.png?raw=true)
 6. 运行DC1工具箱，选择(3)升级编译环境，等待完成。
+
 ![image](https://github.com/Samuel-0-0/esphome-tools-dc1/blob/lite/%E5%B7%A5%E5%85%B7%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png?raw=true)
 7. 将固件配置文件存放于DC1刷机工具的config_yaml目录内。
 8. 执行菜单(1)编译DC1固件，确认无报错后执行菜单(2)升级DC1固件。注意！初次使用*必须*用TTL线刷，之后可以通过OTA升级。
